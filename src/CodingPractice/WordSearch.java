@@ -20,7 +20,7 @@ public class WordSearch {
             System.out.println(currentWord);
         }*/
 
-         //Reading data from the keyboard
+         //Reading data from the keyboard 
 
         Scanner scanner = new Scanner(System.in);
 
